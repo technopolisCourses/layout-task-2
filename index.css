@@ -1,0 +1,10 @@
+body {
+	background: url(back.jpg);
+}
+
+div {
+	column-count: 4;
+	column-span: all;
+	column-width: 200px;
+	column-rule: 2px solid;
+}
